@@ -1,0 +1,18 @@
+/* App.css */
+body, html, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .App {
+    min-height: 100vh;
+    background-image: url('C:\Users\Bhumika Jain\OneDrive\Desktop\FEWD\sample\public\sky-background-video-conferencing_23-2148623068.avif'); /* use your correct path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
